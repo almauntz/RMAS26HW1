@@ -9,7 +9,7 @@
 
 ## ✏️ Moja verzija zadaće
 
-> Upišite slovo verzije zadaće koju radite (A, B ili C) i commitajte ovu izmjenu kao **prvi commit**.
+> Upišite slovo verzije zadaće koju radite (A, B ili C) u ovoj datoteci (README.md) i uradite commit ovu izmjene kao **prvi commit**.
 
 **Verzija zadaće:** _
 
