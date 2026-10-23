@@ -7,7 +7,7 @@
 
 ## ✏️ My homework version
 
-> Write the letter of the homework version you are doing (A, B or C) in `README.md` and commit this change as your **first commit**.
+> Write the letter of the homework version you are doing (A, B or C) in `README_en.md` and commit this change as your **first commit**.
 
 ---
 
@@ -17,14 +17,14 @@ Choose only one version, according to your knowledge. All versions are worth the
 
 | Version | Level | Topic | Homework text |
 |---|---|---|---|
-| **A** | basic | My Grade Average | [zadatak/Homework1-A-EN.pdf](zadatak/Homework1-A-EN.pdf) |
-| **B** | standard | Orders at Bingo Supermarket | [zadatak/Homework1-B-EN.pdf](zadatak/Homework1-B-EN.pdf) |
-| **C** | advanced | Air Quality in Tuzla Canton | [zadatak/Homework1-C-EN.pdf](zadatak/Homework1-C-EN.pdf) |
+| **A** | basic | My Grade Average | [homework_files/HW1A_eng.pdf](homework_files/HW1A_eng.pdf) |
+| **B** | standard | Orders at Bingo Supermarket | [homework_files/HW1B_eng.pdf](homework_files/HW1B_eng.pdf) |
+| **C** | advanced | Air Quality in Tuzla Canton | [homework_files/HW1C_eng.pdf](homework_files/HW1C_eng.pdf) |
 
 ## What is where
 
 ```
-zadatak/                 homework texts (PDF)
+homework_files/                 homework texts (PDF)
 src/main/kotlin/
   Model.kt               your data model
   Main.kt                reading data, queries and output

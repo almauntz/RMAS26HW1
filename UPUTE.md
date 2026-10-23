@@ -1,6 +1,6 @@
 # Upute: kako raditi i predati zadaću
 
-Tekst zadatka je u `README.md`. Ovdje piše kako postaviti alate, raditi u repozitoriju i predati zadaću.
+Tekst opisa zadaće je u `README.md`. Ovdje piše kako postaviti alate, raditi u repozitoriju i predati zadaću.
 
 ## 1. Instalirajte alate
 
@@ -28,19 +28,19 @@ Obično dopunjavanje (lista prijedloga dok kucate ime funkcije) smije ostati. Is
 
 ## 4. Prvo pokretanje
 
-1. Nakon otvaranja, IntelliJ prvi put učitava projekat (Gradle). To može potrajati nekoliko minuta i traži internet. Sačekajte da nestane traka napretka na dnu.
+1. Nakon otvaranja, IntelliJ prvi put učitava projekat (Gradle). To može potrajati nekoliko minuta i zahtjeva Internet. Sačekajte da nestane progress bar na dnu.
 2. Otvorite `src/main/kotlin/Main.kt`.
 3. Kliknite zelenu strelicu pored `fun main()` i izaberite **Run**.
-4. Dole se treba ispisati `Zdravo, Kotlin!`. Ako jeste, sve je spremno.
+4. Dole se treba ispisati `Hello, Kotlin!`. Ako jeste, sve je spremno.
 
-Sav kod pišete u `src/main/kotlin/`. Model podataka ide u `Model.kt`, a čitanje podataka, upiti i ispis u `Main.kt`. Ako želite, možete dodati još fajlova. Folder `data/` s CSV fajlovima koristi samo verzija C.
+Sav kod pišete u `src/main/kotlin/`. Model podataka ide u `Model.kt`, a čitanje podataka, upiti i ispis u `Main.kt`. Ako želite, možete dodati još file-ova. Folder `data/` s CSV file-ovima koristi samo verzija C.
 
 ## 5. Commit i push
 
-Commitajte **kako napredujete**, a ne samo na kraju. Potrebno je najmanje 5 commitova.
+Radite commit **kako napredujete**, a ne samo na kraju. Potrebno je najmanje 5 commit-a.
 
 1. **Git → Commit** (Windows/Linux: `Ctrl+K`, macOS: `Cmd+K`).
-2. Označite fajlove koje ste mijenjali i napišite kratku poruku šta ste uradili.
+2. Označite file-ove koje ste mijenjali i napišite kratku poruku šta ste uradili.
 3. Kliknite **Commit and Push**, pa **Push**.
 
 Primjeri dobrih poruka:
@@ -50,12 +50,12 @@ Primjeri dobrih poruka:
 - `Nepoloženi i najbolja ocjena`
 - `Ispis po semestru`
 
-Na stranici repozitorija na GitHubu provjerite da se vaši commitovi vide.
+Na stranici repozitorija na GitHubu provjerite da se vaši commit-ovi vide.
 
 ## 6. Predaja
 
 - Predaja je **zadnji push prije roka**. Commitovi nakon roka se ne računaju.
-- Ništa ne šaljete mailom. Asistentica preuzima kod direktno iz vašeg repozitorija.
+- Ništa ne šaljete mailom. To neće biti pregledano niti ocjenjeno.
 
 ## Česti problemi
 
