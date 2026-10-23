@@ -3,13 +3,13 @@
 *English version: [README_en.md](README_en.md)*
 
 **Predmet:** Razvoj mobilnih aplikacija i servisa
-**Rok za predaju:** 30.10.2026. u 23:59 · **Odbrana:** laboratorijske vježbe, 02.11.2026.
+**Rok za predaju:** 31.10.2026. u 23:59 · **Odbrana:** laboratorijske vježbe, 02.11.2026.
 
 ---
 
 ## ✏️ Moja verzija zadaće
 
-> Upišite slovo verzije zadaće koju radite (A, B ili C) i commitajte ovu izmjenu kao **prvi commit**.
+Upišite slovo verzije zadaće koju radite (A, B ili C) i uradite commit ove izmjene kao **prvi commit**.
 
 **Verzija zadaće:** _
 
@@ -17,7 +17,7 @@
 
 ## Verzije zadaće
 
-Birate jednu verziju zadaće, prema svom znanju. Sve verzije nose isti broj bodova (7). Uspješno odbranjena verzija C donosi i +1 bonus bod na aktivnost.
+Birate samo jednu verziju zadaće, prema svom nivou znanja. Sve verzije nose isti broj bodova (7). Uspješno odbranjena verzija C donosi i +1 bonus bod na aktivnost.
 
 | Verzija | Nivo | Tema | Tekst zadatka |
 |---|---|---|---|

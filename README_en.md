@@ -1,7 +1,7 @@
 # Homework 1 – Kotlin
 
 **Course:** Mobile Application and Service Development
-**Submission deadline:** 30.10.2026 at 23:59 · **Defense:** lab session, 02.11.2026
+**Submission deadline:** 31.10.2026 at 23:59 · **Defense:** lab session, 02.11.2026
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## Homework versions
 
-Choose one version, according to your knowledge. All versions are worth the same number of points (7). A successfully defended version C also earns +1 bonus activity point.
+Choose only one version, according to your knowledge. All versions are worth the same number of points (7). A successfully defended version C also earns +1 bonus activity point.
 
 | Version | Level | Topic | Homework text |
 |---|---|---|---|
