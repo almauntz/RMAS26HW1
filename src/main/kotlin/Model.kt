@@ -1,2 +1,2 @@
-// Model podataka
-// Ovdje definišite tipove podataka koje ste osmislili za svoju verziju zadace.
+// Data model
+// Define here the data types you have devised for your version of the assignment.

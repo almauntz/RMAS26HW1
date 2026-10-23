@@ -33,7 +33,7 @@ Obično dopunjavanje (lista prijedloga dok kucate ime funkcije) smije ostati. Is
 3. Kliknite zelenu strelicu pored `fun main()` i izaberite **Run**.
 4. Dole se treba ispisati `Zdravo, Kotlin!`. Ako jeste, sve je spremno.
 
-Sav kod pišete u `src/main/kotlin/`. Možete ga podijeliti u više fajlova, npr. `Model.kt` i `Main.kt`.
+Sav kod pišete u `src/main/kotlin/`. Model podataka ide u `Model.kt`, a čitanje podataka, upiti i ispis u `Main.kt`. Ako želite, možete dodati još fajlova. Folder `data/` s CSV fajlovima koristi samo verzija C.
 
 ## 5. Commit i push
 
