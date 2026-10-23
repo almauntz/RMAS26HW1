@@ -30,7 +30,7 @@ English versions: [homework_files/HW1A_eng.pdf](homework_files/HW1A_eng.pdf), [B
 ## Šta je gdje
 
 ```
-zadatak/                 tekstovi zadataka (PDF)
+homework_files/                 tekstovi zadataka (PDF)
 src/main/kotlin/
   Model.kt               vaš model podataka
   Main.kt                čitanje podataka, upiti i ispis
