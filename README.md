@@ -21,11 +21,11 @@ Birate jednu verziju zadaće, prema svom znanju. Sve verzije nose isti broj bodo
 
 | Verzija | Nivo | Tema | Tekst zadatka |
 |---|---|---|---|
-| **A** | osnovni | Moj prosjek | [zadatak/Zadaca1-A.pdf](zadatak/Zadaca1-A.pdf) |
-| **B** | standardni | Narudžbe u Bingo supermarketu | [zadatak/Zadaca1-B.pdf](zadatak/Zadaca1-B.pdf) |
-| **C** | napredni | Kvalitet zraka u Tuzlanskom kantonu | [zadatak/Zadaca1-C.pdf](zadatak/Zadaca1-C.pdf) |
+| **A** | osnovni | Moj prosjek | [homework_files/HW1A_bos.pdf](homework_files/HW1A_bos.pdf) |
+| **B** | standardni | Narudžbe u Bingo supermarketu | [homework_files/HW1B_bos.pdf](homework_files/HW1B_bos.pdf) |
+| **C** | napredni | Kvalitet zraka u Tuzlanskom kantonu | [homework_files/HW1C_bos.pdf](homework_files/HW1C_bos.pdf) |
 
-English versions: [zadatak/Homework1-A-EN.pdf](zadatak/Homework1-A-EN.pdf), [B](zadatak/Homework1-B-EN.pdf), [C](zadatak/Homework1-C-EN.pdf).
+English versions: [homework_files/HW1A_eng.pdf](homework_files/HW1A_eng.pdf), [B](homework_files/HW1B_eng.pdf), [C](homework_files/HW1C_eng.pdf).
 
 ## Šta je gdje
 
